@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Northline",
+      "hasCanvas": false,
+      "bodyTextLen": 1220,
+      "bodyTextHash": "a63cbad6ab8f7af5c415b27f1caa80a5f17749a4306722d5fb2475ee43b58776",
+      "bodyTextPrefix": "Northline ATS resumes · open-source matches SINGLE COLUMN · TEXT",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Northline",
+      "hasCanvas": false,
+      "bodyTextLen": 1173,
+      "bodyTextHash": "a965bac2851c53e1f7c4e83ea645a629eb8b19a6c0b40ab8b1ded2630d3935d9",
+      "bodyTextPrefix": "Northline ATS resumes · open-source matches Your details Drop in",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

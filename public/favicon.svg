@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Northline">
+  <rect width="32" height="32" fill="#0c0c0d"/>
+  <rect x="7" y="5" width="18" height="22" rx="1.2" fill="#faf8f4"/>
+  <!-- north-pointing compass needle -->
+  <polygon points="16,8 17.4,17.2 16,16.2 14.6,17.2" fill="#1a1916"/>
+  <polygon points="16,24 17.2,16.8 16,17.6 14.8,16.8" fill="#9a958c"/>
+  <circle cx="16" cy="16.6" r="1.15" fill="#0c0c0d"/>
+  <circle cx="16" cy="16.6" r="0.45" fill="#e4dfd4"/>
+</svg>

@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Northline",
+      "hasCanvas": false,
+      "bodyTextLen": 1605,
+      "bodyTextHash": "8eda20ae0854e5d83a9752a2ba5c69a6d2522171283a483e069f5164a4fa7437",
+      "bodyTextPrefix": "Northline Resume gap closer SINGLE COLUMN · TEXT SELECTABLE · PR",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Northline",
+      "hasCanvas": false,
+      "bodyTextLen": 1558,
+      "bodyTextHash": "869f0a30b6d5b751dcb7f056c2b7be0fb0dc51fd92cec43824da50bb77ff3716",
+      "bodyTextPrefix": "Northline Resume gap closer Your details Choose student or exper",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
